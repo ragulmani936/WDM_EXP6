@@ -80,5 +80,8 @@ for result in search_results:
 ```
 ### Output:
 
+![img1](https://github.com/ragulmani936/WDM_EXP6/assets/94881918/d82605af-0934-4206-9f0f-fcb64a9d3331)
+
+
 ### Result:
 Thus the implementation of Information Retrieval Using  Vector Space Mode in Python is successfully completed.
